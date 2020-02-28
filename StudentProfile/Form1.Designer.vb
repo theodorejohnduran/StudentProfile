@@ -51,10 +51,10 @@ Partial Class Form1
         'label_title
         '
         Me.label_title.AutoSize = True
-        Me.label_title.Font = New System.Drawing.Font("Microsoft Sans Serif", 11.0!)
-        Me.label_title.Location = New System.Drawing.Point(475, 70)
+        Me.label_title.Font = New System.Drawing.Font("Bell MT", 16.0!)
+        Me.label_title.Location = New System.Drawing.Point(449, 58)
         Me.label_title.Name = "label_title"
-        Me.label_title.Size = New System.Drawing.Size(131, 24)
+        Me.label_title.Size = New System.Drawing.Size(182, 30)
         Me.label_title.TabIndex = 1
         Me.label_title.Text = "Student Profile"
         '
